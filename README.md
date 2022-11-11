@@ -1,2 +1,0 @@
-# Tizifood.
-Proyecto de FIS.
