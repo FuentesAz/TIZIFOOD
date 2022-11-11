@@ -1,0 +1,2 @@
+[05-Nov-2022 17:50:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/integ164/public_html/wp-admin/includes/template.php:2584) in /home1/integ164/public_html/wp-includes/pluggable.php on line 1416
+[05-Nov-2022 17:50:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/integ164/public_html/wp-admin/includes/template.php:2584) in /home1/integ164/public_html/wp-includes/pluggable.php on line 1419

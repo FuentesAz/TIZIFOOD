@@ -1,0 +1,1460 @@
+# Translation of Plugins - Really Simple SSL - Stable (latest release) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - Really Simple SSL - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-08 08:44:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - Really Simple SSL - Stable (latest release)\n"
+
+#: settings/settings.php:312
+msgid "Self-hosted, Privacy-friendly analytics tool"
+msgstr "Herramienta de análisis autoalojada y respetuosa con la privacidad"
+
+#: upgrade/upgrade-to-pro.php:347
+msgid "Installing"
+msgstr "Instalando"
+
+#: upgrade/upgrade-to-pro.php:322
+msgid "Recommended by Really Simple Plugins"
+msgstr "Recomendado por Really Simple Plugins"
+
+#: upgrade/upgrade-to-pro.php:547
+msgid "This appears to be an invalid license key for this plugin."
+msgstr "Parece que se trata de una clave de licencia no válida para este plugin."
+
+#: upgrade/upgrade-to-pro.php:538
+msgid "Missing license."
+msgstr "Falta la licencia."
+
+#: upgrade/upgrade-to-pro.php:363
+msgid "Install %sManually%s."
+msgstr "Instalar %sManualmente%s."
+
+#: upgrade/upgrade-to-pro.php:363 upgrade/upgrade-to-pro.php:364
+msgid "An Error Occurred:"
+msgstr "Se ha producido un error:"
+
+#: upgrade/upgrade-to-pro.php:550
+msgid "Your license key has reached its activation limit."
+msgstr "Tu clave de licencia ha alcanzado el límite de activación."
+
+#: upgrade/upgrade-to-pro.php:544
+msgid "Your license is not active for this URL."
+msgstr "Tu licencia no está activa para esta URL."
+
+#: upgrade/upgrade-to-pro.php:541
+msgid "Invalid license."
+msgstr "Licencia no válida."
+
+#: upgrade/upgrade-to-pro.php:535
+msgid "Your license key has been disabled."
+msgstr "Tu clave de licencia ha sido desactivada."
+
+#: upgrade/upgrade-to-pro.php:529
+msgid "Your license key expired on %s."
+msgstr "Tu clave de licencia expiró el %s."
+
+#: upgrade/upgrade-to-pro.php:521 upgrade/upgrade-to-pro.php:553
+msgid "An error occurred, please try again."
+msgstr "Se ha producido un error, inténtalo de nuevo."
+
+#: upgrade/upgrade-to-pro.php:421
+msgid "Plugin already installed!"
+msgstr "¡El plugin ya está instalado!"
+
+#: upgrade/upgrade-to-pro.php:364
+msgid "Check your %slicense%s."
+msgstr "Comprueba tu %slicencia%s."
+
+#: upgrade/upgrade-to-pro.php:358
+msgid "Visit Dashboard"
+msgstr "Visita el Escritorio"
+
+#: upgrade/upgrade-to-pro.php:224
+msgid "Installation finished"
+msgstr "Instalación finalizada"
+
+#: upgrade/upgrade-to-pro.php:170
+msgid "Really Simple SSL automatically detects your settings and configures your website to run over HTTPS. To keep it lightweight, we kept the options to a minimum. Your website will move to SSL with one click."
+msgstr "Really Simple SSL detecta automáticamente tus ajustes y configura tu sitio web para que funcione con HTTPS. Para mantenerlo ligero, hemos mantenido las opciones al mínimo. Tu sitio web pasará a SSL con un solo clic."
+
+#: upgrade/upgrade-to-pro.php:166
+msgid "One click SSL optimization"
+msgstr "Optimización SSL con un solo clic"
+
+#: upgrade/upgrade-to-pro.php:153
+msgid "Configure your Cookie Notice, Cookie Consent and Cookie Policy with our Wizard and Cookie Scan. Supports GDPR, DSGVO, TTDSG, LGPD, POPIA, RGPD, CCPA and PIPEDA."
+msgstr "Configura tu Aviso de Cookies, Consentimiento de Cookies y Política de Cookies con nuestro Asistente y Escaneo de Cookies. Soporta GDPR, DSGVO, TTDSG, LGPD, POPIA, RGPD, CCPA y PIPEDA."
+
+#: upgrade/upgrade-to-pro.php:149
+msgid "GDPR/CCPA Privacy Suite"
+msgstr "GDPR/CCPA Privacy Suite"
+
+#: upgrade/upgrade-to-pro.php:140
+msgid "Get detailed insights into visitors' behaviour with Burst Statistics, the privacy-friendly analytics dashboard from Really Simple Plugins."
+msgstr "Obtén información detallada sobre el comportamiento de los visitantes con Burst Statistics, el panel de análisis de privacidad respetuoso de Really Simple Plugins."
+
+#: upgrade/upgrade-to-pro.php:136
+msgid "Self-hosted and privacy-friendly analytics tool."
+msgstr "Herramienta de análisis autogestionada y respetuosa con la privacidad."
+
+#: upgrade/upgrade-to-pro.php:103
+msgid "Failed to activate plugin"
+msgstr "Fallo en la activación del plugin"
+
+#: upgrade/upgrade-to-pro.php:102
+msgid "Plugin activated"
+msgstr "Plugin activado"
+
+#: upgrade/upgrade-to-pro.php:101
+msgid "Activating plugin..."
+msgstr "Activando el plugin..."
+
+#: upgrade/upgrade-to-pro.php:96
+msgid "Failed to install plugin"
+msgstr "Fallo en la instalación del plugin"
+
+#: upgrade/upgrade-to-pro.php:95
+msgid "Plugin installed"
+msgstr "Plugin instalado"
+
+#: upgrade/upgrade-to-pro.php:94
+msgid "Installing plugin..."
+msgstr "Instalando el plugin..."
+
+#: upgrade/upgrade-to-pro.php:89
+msgid "Failed to gather package information"
+msgstr "No se ha podido recoger la información del paquete"
+
+#: upgrade/upgrade-to-pro.php:88
+msgid "Package information retrieved"
+msgstr "Información del paquete recuperada"
+
+#: upgrade/upgrade-to-pro.php:87
+msgid "Retrieving package information..."
+msgstr "Recuperando la información del paquete..."
+
+#: upgrade/upgrade-to-pro.php:82
+msgid "License invalid"
+msgstr "Licencia no válida"
+
+#: upgrade/upgrade-to-pro.php:81
+msgid "License valid"
+msgstr "Licencia válida"
+
+#: upgrade/upgrade-to-pro.php:80
+msgid "Validating license..."
+msgstr "Validando la licencia..."
+
+#: upgrade/upgrade-to-pro.php:75
+msgid "Destination folder already exists"
+msgstr "La carpeta de destino ya existe"
+
+#: upgrade/upgrade-to-pro.php:74
+msgid "Able to create destination folder"
+msgstr "Capaz de crear una carpeta de destino"
+
+#: upgrade/upgrade-to-pro.php:73
+msgid "Checking if plugin folder exists..."
+msgstr "Comprobando si la carpeta de plugins existe..."
+
+#: class-admin.php:1920
+msgid "Remember to change your URLs in external services like Google Analytics, Search Console and others. This should prevent any data loss resulting from the switch to https."
+msgstr "Recuerda cambiar tus URL en servicios externos como Google Analytics, Search Console y otros. Esto debería evitar cualquier pérdida de datos resultante del cambio a HTTPS."
+
+#: class-admin.php:1967
+msgid "Could not test certificate"
+msgstr "No se ha podido probar el certificado"
+
+#: class-admin.php:1970
+msgid "Check manually"
+msgstr "Comprobar manualmente"
+
+#: class-admin.php:2172
+msgid "Improve security with Really Simple SSL Pro."
+msgstr "Mejora la seguridad con Really Simple SSL Pro."
+
+#: onboarding/config.php:175
+msgid "Could not test certificate."
+msgstr "No se ha podido probar el certificado."
+
+#: class-admin.php:1968 onboarding/config.php:175
+msgid "Automatic certificate detection is not possible on your server."
+msgstr "La detección automática de certificados no es posible en tu servidor."
+
+#: class-admin.php:1955
+msgid "The wp-config.php file is not writable, and needs to be edited. Please set this file to writable."
+msgstr "El archivo \"wp-config.php\" no tiene permisos de escritura y tiene que ser editado. Por favor, establece los permisos de escritura para este archivo."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1097
+msgid "We have not detected any known hosting limitations."
+msgstr "No hemos detectado ninguna limitación conocida del hosting."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1112
+msgid "After completing the installation, you can let Really Simple SSL automatically configure your site for SSL by using the 'Activate SSL' button."
+msgstr "Después de completar la instalación, puedes dejar que Really Simple SSL configure tu sitio  para SSL automáticamente usando el botón \"Activar SSL\"."
+
+#: lets-encrypt/config/fields.php:429
+msgid "Checking host..."
+msgstr "Comprobando el servidor..."
+
+#: class-site-health.php:77 class-site-health.php:107 class-site-health.php:138
+#: class-site-health.php:178
+msgid "Security"
+msgstr "Seguridad"
+
+#: class-admin.php:2161
+msgid "Recommended security headers enabled."
+msgstr "Cabeceras de seguridad recomendadas iactivadas."
+
+#: class-site-health.php:156
+msgid "Your website does not send all recommended security headers."
+msgstr "Tu web no envía todas las cabeceras de seguridad recomendadas."
+
+#: lets-encrypt/config/fields.php:122
+msgid "Disable OCSP Stapling"
+msgstr "Desactivar el apilado de OCSP"
+
+#: lets-encrypt/functions.php:12
+msgid "For more information, please read this %sarticle%s"
+msgstr "Para más información, por favor, lee este %sartículo%s"
+
+#: class-admin.php:2225
+msgid "Black Friday sale! Get 40% Off Really Simple SSL Pro"
+msgstr "¡Oferta de Black Friday! Ahorra un 40% en Really Simple SSL Pro"
+
+#: lets-encrypt/config/fields.php:510
+msgid "Checking if Terms & Conditions are accepted..."
+msgstr "Comprobando si se han aceptado los términos y condiciones…"
+
+#: lets-encrypt/class-letsencrypt-handler.php:953
+msgid "The Terms & Conditions were not accepted. Please accept in the general settings."
+msgstr "Los términos y condiciones no se han aceptado. Por favor, acéptalos en los ajustes generales."
+
+#: lets-encrypt/class-letsencrypt-handler.php:949
+msgid "Terms & Conditions are accepted."
+msgstr "Los términos y condiciones se han aceptado."
+
+#: class-admin.php:2121
+msgid "HttpOnly Secure cookies have been set automatically!"
+msgstr "¡Las cookies seguras HttpOnly se han configurado automáticamente!"
+
+#: class-admin.php:2210
+msgid "We have detected the %s plugin on your website."
+msgstr "Hemos detectado en tu web el plugin %s."
+
+#: onboarding/config.php:180
+msgid "No SSL certificate has been detected."
+msgstr "No se ha detectado ningún certificado SSL."
+
+#: lets-encrypt/class-letsencrypt-handler.php:451
+msgid "Order ID mismatch, regenerate order."
+msgstr "El ID del pedido no coincide. Vuelve a generar el pedido."
+
+#: lets-encrypt/class-letsencrypt-handler.php:454
+msgid "If you entered your DNS records before, they need to be changed."
+msgstr "Si has introducido tus registros DNS antes, es necesario cambiarlos."
+
+#: lets-encrypt/config/notices.php:123
+msgid "Your server provides shell functionality, which offers additional methods to install SSL. If installing SSL using the default methods is not possible, you can install the shell add on."
+msgstr "Tu servidor proporciona la funcionalidad «shell», que ofrece métodos adicionales para instalar SSL. Si no es posible instalar SSL usando los métodos por defecto, puedes instalar la extensión «shell»."
+
+#: settings/config/config.php:370 settings/build/index.js:382
+#: settings/src/LetsEncrypt/Installation.js:103
+#: settings/src/LetsEncrypt/Installation.js:108
+#: settings/src/LetsEncrypt/Installation.js:112 settings/build/index.js:4120
+#: settings/build/index.js:4125 settings/build/index.js:4129
+msgid "Download"
+msgstr "Descargar"
+
+#: lets-encrypt/config/notices.php:27
+msgid "Your Key and Certificate directories are not properly protected."
+msgstr "Sus directorios de claves y certificados no están debidamente protegidos."
+
+#: lets-encrypt/config/notices.php:108
+msgid "Your certificate will be renewed and installed automatically."
+msgstr "Su certificado se renovará y se instalará automáticamente."
+
+#: lets-encrypt/config/notices.php:94
+msgid "The SSL certificate has been renewed, and requires manual %sinstallation%s in your hosting dashboard."
+msgstr "El certificado SSL ha sido renovado y requiere una %sinstalación%s manual en el panel de control de su alojamiento."
+
+#: lets-encrypt/config/notices.php:87
+msgid "The automatic installation of your certificate has failed. Please check your credentials, and retry the %sinstallation%s."
+msgstr "La instalación automática de su certificado ha fallado. Por favor, compruebe sus credenciales y vuelva a intentar la %sinstalación%s."
+
+#: lets-encrypt/config/notices.php:72
+msgid "Your certificate will expire on %s. You can renew it %shere%s."
+msgstr "Su certificado expirará el %s. Puede renovarlo %saquí%s."
+
+#: lets-encrypt/config/notices.php:41
+msgid "The www version of your site does not point to this website. This is recommended, as it will allow you to add it to the certificate as well."
+msgstr "La versión www de su sitio no apunta a este sitio web. Esto es recomendable, ya que le permitirá añadirlo al certificado también."
+
+#: lets-encrypt/config/notices.php:39
+msgid "The non-www version of your site does not point to this website. This is recommended, as it will allow you to add it to the certificate as well."
+msgstr "La versión no-www de su sitio no apunta a este sitio web. Esto es recomendable, ya que le permitirá añadirlo al certificado también."
+
+#: lets-encrypt/config/fields.php:535
+msgid "Searching for link to SSL installation page on your server..."
+msgstr "Buscando el enlace a la página de instalación de SSL en su servidor..."
+
+#: lets-encrypt/config/fields.php:29 settings/config/config.php:238
+msgid "Installation"
+msgstr "Instalación"
+
+#: lets-encrypt/config/fields.php:25 settings/config/config.php:233
+msgid "Generation"
+msgstr "Generación"
+
+#: lets-encrypt/config/fields.php:485
+msgid "Retrieving DNS verification token..."
+msgstr "Recuperando el token de verificación DNS..."
+
+#: lets-encrypt/config/fields.php:21
+msgid "DNS Verification"
+msgstr "Verificación de DNS"
+
+#: lets-encrypt/config/fields.php:453
+msgid "Checking permissions..."
+msgstr "Comprobando los permisos..."
+
+#: lets-encrypt/config/fields.php:447
+msgid "Checking certs directory..."
+msgstr "Comprobando el directorio de certificados..."
+
+#: lets-encrypt/config/fields.php:17 settings/config/config.php:223
+msgid "Directories"
+msgstr "Directorios"
+
+#: lets-encrypt/config/notices.php:101
+msgid "Automatic renewal of your certificate was not possible. The SSL certificate should be %srenewed%s manually."
+msgstr "No ha sido posible la renovación automática de tu certificado. El certificado SSL debería %srenovarse%s manualmente."
+
+#: lets-encrypt/config/fields.php:479 lets-encrypt/config/fields.php:516
+msgid "Creating account..."
+msgstr "Creando la cuenta..."
+
+#: lets-encrypt/config/fields.php:460
+msgid "Checking challenge directory reachable over http..."
+msgstr "Comprobando que el directorio de verificación es alcanzable a través de http..."
+
+#: lets-encrypt/config/fields.php:441
+msgid "Checking key directory..."
+msgstr "Comprobando el directorio de claves..."
+
+#: lets-encrypt/config/fields.php:435
+msgid "Checking challenge directory..."
+msgstr "Comprobando el directorio de verificación..."
+
+#: settings/config/config.php:217
+msgid "Hosting"
+msgstr "Alojamiento"
+
+#: settings/config/config.php:206
+msgid "Letʼs Encrypt is a free, automated and open certificate authority brought to you by the nonprofit Internet Security Research Group (ISRG)."
+msgstr "Letʼs Encrypt es una autoridad de certificación gratuita, automatizada y abierta, creada por la organización sin ánimo de lucro Internet Security Research Group (ISRG)."
+
+#: settings/config/config.php:198
+msgid " Please note that you can always save and finish the wizard later, use our %sdocumentation%s for additional information or log a %ssupport ticket%s if you need our assistance."
+msgstr "Por favor, tenga en cuenta que siempre puede guardar y finalizar el asistente más tarde, utilice nuestra %sdocumentación%s para obtener información adicional o registre un %sticket de soporte%s si necesita nuestra ayuda. "
+
+#: settings/config/config.php:196
+msgid "We have tried to make our Wizard as simple and fast as possible. Although these questions are all necessary, if there’s any way you think we can improve the plugin, please let us %sknow%s!"
+msgstr "Hemos tratado de hacer nuestro asistente tan sencillo y rápido como nos ha sido posible. Aunque todas estas preguntas son necesarias, si hay alguna forma en la que crees que podemos mejorar el plugin, por favor, ¡%sháznoslo saber%s!"
+
+#: lets-encrypt/config/fields.php:12
+msgid "General settings"
+msgstr "Ajustes generales"
+
+#: lets-encrypt/config/fields.php:75
+msgid "Checking for website configuration..."
+msgstr "Comprobando la configuración del sitio web..."
+
+#: lets-encrypt/config/fields.php:69
+msgid "Checking alias domain..."
+msgstr "Comprobando el alias del dominio..."
+
+#: lets-encrypt/config/fields.php:63
+msgid "Checking server software..."
+msgstr "Comprobando el software del servidor..."
+
+#: lets-encrypt/config/fields.php:57
+msgid "Checking if CURL is available..."
+msgstr "Comprobando si CURL está disponible..."
+
+#: lets-encrypt/config/fields.php:51
+msgid "Checking SSL certificate..."
+msgstr "Comprobando el certificado SSL..."
+
+#: lets-encrypt/config/fields.php:46
+msgid "Detected status of your setup."
+msgstr "Estado detectado de su configuración. "
+
+#: lets-encrypt/config/fields.php:8 settings/config/config.php:205
+msgid "System Status"
+msgstr "Estado del sistema"
+
+#: lets-encrypt/config/fields.php:400
+msgid "Store for renewal purposes. If not stored, renewal may need to be done manually."
+msgstr "Almacenar para la renovación. Si no se almacena, es posible que la renovación deba hacerse manualmente."
+
+#: lets-encrypt/config/fields.php:378
+msgid "Plesk password"
+msgstr "Contraseña de Plesk"
+
+#: lets-encrypt/config/fields.php:359
+msgid "You can find your Plesk username and password in %s"
+msgstr "Puede encontrar su nombre de usuario y contraseña de Plesk en %s"
+
+#: lets-encrypt/config/fields.php:355
+msgid "Plesk username"
+msgstr "Nombre de usuario de Plesk"
+
+#: lets-encrypt/config/fields.php:336
+msgid "The URL you use to access your Plesk dashboard. Ends on :8443."
+msgstr "La URL que utiliza para acceder a su panel de control de Plesk. Termina en :8443."
+
+#: lets-encrypt/config/fields.php:332
+msgid "Plesk host"
+msgstr "Host de Plesk"
+
+#: lets-encrypt/config/fields.php:317
+msgid "You can find your api key %shere%s (make sure you're logged in with your main account)."
+msgstr "Puede encontrar su clave api %saquí%s (asegúrese de haber iniciado sesión con su cuenta principal)."
+
+#: lets-encrypt/config/fields.php:311
+msgid "CloudWays api key"
+msgstr "Clave API de CloudWays"
+
+#: lets-encrypt/config/fields.php:296
+msgid "CloudWays user email"
+msgstr "Correo electrónico del usuario de CloudWays"
+
+#: lets-encrypt/config/fields.php:277
+msgid "DirectAdmin password"
+msgstr "Contraseña DirectAdmin "
+
+#: lets-encrypt/config/fields.php:259
+msgid "DirectAdmin username"
+msgstr "Nombre de usuario de DirectAdmin"
+
+#: lets-encrypt/config/fields.php:240
+msgid "The URL you use to access your DirectAdmin dashboard. Ends on :2222."
+msgstr "La URL que utiliza para acceder a su panel de control de DirectAdmin. Termina en :2222."
+
+#: lets-encrypt/config/fields.php:236
+msgid "DirectAdmin host"
+msgstr "Host DirectAdmin"
+
+#: lets-encrypt/config/fields.php:218
+msgid "CPanel password"
+msgstr "Contraseña del CPanel"
+
+#: lets-encrypt/config/fields.php:200
+msgid "CPanel username"
+msgstr "Nombre de usuario de CPanel"
+
+#: lets-encrypt/config/fields.php:181
+msgid "The URL you use to access your cPanel dashboard. Ends on :2083."
+msgstr "La URL que utiliza para acceder a su panel de control de cPanel. Termina en :2083."
+
+#: lets-encrypt/config/fields.php:177 lets-encrypt/config/fields.php:180
+msgid "CPanel host"
+msgstr "Host de CPanel"
+
+#: lets-encrypt/config/fields.php:168
+msgid "Hosting provider"
+msgstr "Proveedor de alojamiento"
+
+#: lets-encrypt/config/fields.php:164
+msgid "If your hosting provider is not listed, and there's an SSL activation/installation link, please let us %sknow%s."
+msgstr "Si su proveedor de alojamiento no está en la lista, y hay un enlace de activación/instalación de SSL, por favor %sháganoslo saber%s."
+
+#: lets-encrypt/config/fields.php:162
+msgid "By selecting your hosting provider we can tell you if your hosting provider already supports free SSL, and/or where you can activate it."
+msgstr "Al seleccionar su proveedor de alojamiento, podemos decirle si su empresa de alojamiento ya admite el SSL gratuito, y/o dónde puede activarlo."
+
+#: lets-encrypt/config/fields.php:144
+msgid "You should have the www domain pointed to the same website as the non-www domain."
+msgstr "Debe tener el dominio www apuntado al mismo sitio web que el dominio no-www."
+
+#: lets-encrypt/config/fields.php:143
+msgid "This will include both the www. and non-www. version of your domain."
+msgstr "Esto incluirá tanto la versión www. como la no-www. de su dominio."
+
+#: lets-encrypt/config/fields.php:129 lets-encrypt/config/notices.php:49
+msgid "Domain"
+msgstr "Dominio"
+
+#: lets-encrypt/config/fields.php:91 lets-encrypt/config/fields.php:94
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: lets-encrypt/config/class-hosts.php:534
+msgid "I don't know, or not listed, proceed with installation"
+msgstr "No lo sé, o no está en la lista, proceda con la instalación"
+
+#: lets-encrypt/config/fields.php:552
+msgid "Checking for subdomain setup..."
+msgstr "Comprobando la configuración del subdominio..."
+
+#: lets-encrypt/config/fields.php:522 settings/build/index.js:382
+#: settings/src/LetsEncrypt/LetsEncrypt.js:93 settings/build/index.js:4230
+msgid "Generating SSL certificate..."
+msgstr "Generando el certificado SSL..."
+
+#: lets-encrypt/integrations/plesk/plesk.php:87
+msgid "Successfully installed SSL"
+msgstr "Se ha instalado correctamente el SSL"
+
+#: lets-encrypt/integrations/plesk/functions.php:33
+msgid "Installing SSL certificate using PLESK API..."
+msgstr "Instalación del certificado SSL mediante la API de PLESK..."
+
+#: lets-encrypt/integrations/cpanel/functions.php:105
+#: lets-encrypt/integrations/directadmin/functions.php:35
+msgid "Attempting to install certificate..."
+msgstr "Intentando instalar el certificado..."
+
+#: lets-encrypt/integrations/cpanel/functions.php:98
+msgid "Attempting to set DNS txt record..."
+msgstr "Intentando establecer el registro txt de DNS..."
+
+#: lets-encrypt/integrations/cpanel/functions.php:89
+msgid "Attempting to install certificate using AutoSSL..."
+msgstr "Intentando instalar el certificado usando AutoSSL..."
+
+#: lets-encrypt/integrations/cpanel/functions.php:61
+msgid "The system is not ready for the DNS verification yet. Please run the wizard again."
+msgstr "El sistema aún no está listo para la verificación del DNS. Por favor, ejecute el asistente de nuevo."
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:280
+#: lets-encrypt/integrations/cpanel/cpanel.php:299
+msgid "Could not automatically add TXT record. Please proceed manually, following the steps below."
+msgstr "No se pudo agregar automáticamente el registro TXT. Proceda manualmente, siguiendo los pasos a continuación. "
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:276
+#: lets-encrypt/integrations/cpanel/cpanel.php:295
+msgid "Successfully added TXT record."
+msgstr "Se ha añadido con éxito el registro TXT."
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:268
+msgid "Login credentials incorrect"
+msgstr "Las credenciales de inicio de sesión son incorrectas"
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:264
+msgid "Unable to connect to cPanel"
+msgstr "No es posible conectar a cPanel"
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:180
+msgid "Errors were reported during installation."
+msgstr "Se reportaron errores durante la instalación."
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:120
+msgid "Errors were reported during installation"
+msgstr "Se reportaron errores durante la instalación"
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:115
+#: lets-encrypt/integrations/directadmin/directadmin.php:122
+msgid "SSL successfully installed on %s"
+msgstr "SSL instalado con éxito en %s"
+
+#: lets-encrypt/integrations/cpanel/cpanel.php:64
+#: lets-encrypt/integrations/directadmin/directadmin.php:64
+msgid "No valid list of domains."
+msgstr "No hay una lista válida de dominios."
+
+#: lets-encrypt/integrations/cloudways/functions.php:49
+msgid "Enabling auto renew..."
+msgstr "Habilitando la renovación automática..."
+
+#: lets-encrypt/integrations/cloudways/functions.php:43
+msgid "Installing SSL certificate..."
+msgstr "Instalación del certificado SSL..."
+
+#: lets-encrypt/integrations/cloudways/functions.php:37
+msgid "Retrieving Cloudways server data..."
+msgstr "Recuperación de los datos del servidor Cloudways..."
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:248
+msgid "Could not retrieve server list"
+msgstr "No se pudo recuperar la lista de servidores "
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:208
+#: lets-encrypt/integrations/cloudways/cloudways.php:241
+msgid "Successfully retrieved server id and app id"
+msgstr "Se ha recuperado con éxito el id del servidor y el id de la aplicación"
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:192
+msgid "Error enabling auto renew for Let's Encrypt"
+msgstr "Error al activar la renovación automática de Lets Encrypt"
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:177
+#: lets-encrypt/integrations/cloudways/cloudways.php:183
+msgid "Successfully installed Let's Encrypt"
+msgstr "Instalado con éxito Lets Encrypt"
+
+#: lets-encrypt/integrations/cloudways/cloudways.php:157
+msgid "Failed retrieving access token"
+msgstr "Fallo en la recuperación del token de acceso"
+
+#: lets-encrypt/functions.php:360
+msgid "You can follow these %sinstructions%s."
+msgstr "Puede seguir estas %sinstrucciones%s."
+
+#: lets-encrypt/functions.php:358
+msgid "Your hosting environment does not allow automatic SSL installation."
+msgstr "Su entorno de alojamiento no permite la instalación automática de SSL."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1104
+#: lets-encrypt/functions.php:355
+msgid "According to our information, your hosting provider does not allow any kind of SSL installation, other then their own paid certificate. For an alternative hosting provider with SSL, see this %sarticle%s."
+msgstr "Según nuestra información, su proveedor de alojamiento no permite ningún tipo de instalación de SSL, aparte de su propio certificado de pago. Para un proveedor de alojamiento alternativo con SSL, vea este %sartículo%s."
+
+#: lets-encrypt/functions.php:349
+msgid "You already have free SSL on your hosting environment."
+msgstr "Usted ya dispone de SSL gratuito en su entorno de alojamiento."
+
+#: lets-encrypt/functions.php:347 lets-encrypt/functions.php:351
+#: lets-encrypt/functions.php:361
+msgid "After completing the installation, you can continue to the next step to complete your configuration."
+msgstr "Después de completar la instalación, puede continuar con el siguiente paso para completar totalmente la instalación."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1111
+#: lets-encrypt/functions.php:345
+msgid "According to our information, your hosting provider supplies your account with an SSL certificate by default. Please contact your %shosting support%s if this is not the case."
+msgstr "Según nuestra información, su proveedor de alojamiento suministra su cuenta con un certificado SSL por defecto. Por favor, si este no es el caso, póngase en contacto con %ssoporte de su proveedor de alojamiento%s."
+
+#: lets-encrypt/functions.php:340
+msgid "Go to installation"
+msgstr "Ir a la instalación"
+
+#: lets-encrypt/functions.php:339
+msgid "Go to activation"
+msgstr "Ir a la activación"
+
+#: lets-encrypt/functions.php:338
+msgid "Please activate it on your dashboard %smanually%s"
+msgstr "Por favor, actívelo en su panel de control %smanualmente%s"
+
+#: lets-encrypt/functions.php:337
+msgid "Please complete %smanually%s"
+msgstr "Por favor, complete %smanualmente%s"
+
+#: lets-encrypt/functions.php:335
+msgid "Please activate it manually on your hosting dashboard."
+msgstr "Por favor, actívelo manualmente en el panel de control de su alojamiento."
+
+#: lets-encrypt/functions.php:334
+msgid "Please complete manually in your hosting dashboard."
+msgstr "Por favor, complete manualmente en el panel de control de su alojamiento."
+
+#: lets-encrypt/download.php:49
+msgid "File missing. Please retry the previous steps."
+msgstr "Falta un archivo. Por favor, vuelva a intentar los pasos anteriores."
+
+#: lets-encrypt/cron.php:84
+msgid "Once every 5 minutes"
+msgstr "Una vez cada 5 minutos"
+
+#: lets-encrypt/cron.php:80 security/cron.php:40
+msgid "Once every day"
+msgstr "Una vez al día"
+
+#: lets-encrypt/cron.php:76
+msgid "Once every week"
+msgstr "Una vez por semana"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1723
+#: lets-encrypt/integrations/cloudways/functions.php:22
+#: lets-encrypt/integrations/cpanel/functions.php:16
+#: lets-encrypt/integrations/cpanel/functions.php:33
+#: lets-encrypt/integrations/directadmin/functions.php:16
+#: lets-encrypt/integrations/plesk/functions.php:16
+msgid "The system is not ready for the installation yet. Please run the wizard again."
+msgstr "El sistema aún no está listo para la instalación. Por favor, ejecute el asistente de nuevo."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1718
+msgid "Installation failed."
+msgstr "La instalación ha fallado."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1713
+msgid "Not recognized server."
+msgstr "Servidor no reconocido."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1687
+msgid "The certificate installation was rate limited. Please try again later."
+msgstr "La instalación del certificado estaba limitada por la tasa. Por favor, inténtelo de nuevo más tarde."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1608
+msgid "Error code %s"
+msgstr "Código de error %s "
+
+#: lets-encrypt/class-letsencrypt-handler.php:1591
+msgid "Please create a folder 'rsssl' in the uploads directory, with 644 permissions."
+msgstr "Por favor, cree una carpeta 'rsssl' en el directorio uploads, con permisos 644."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1590
+msgid "Could not create test folder and file."
+msgstr "No se pudo crear la carpeta y el archivo de prueba. "
+
+#: lets-encrypt/class-letsencrypt-handler.php:1561
+msgid "Could not verify alias domain."
+msgstr "No se pudo verificar el alias del dominio. "
+
+#: lets-encrypt/class-letsencrypt-handler.php:1559
+msgid "Please check if the www version of your site also points to this website."
+msgstr "Por favor, compruebe si la versión www de su sitio también apunta a este sitio web."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1557
+msgid "Please check if the non www version of your site also points to this website."
+msgstr "Por favor, compruebe si la versión no www de su sitio también apunta a este sitio web."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1538
+msgid "Alias domain check is not relevant for a subdomain"
+msgstr "La verificación del dominio del alias no es relevante para un subdominio "
+
+#: lets-encrypt/class-letsencrypt-handler.php:1508
+msgid "No subdomain setup detected."
+msgstr "No se ha detectado ninguna configuración de subdominio."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1503
+msgid "This is a multisite configuration with subdomains, which requires a wildcard certificate. Wildcard certificates are part of the %spremium%s plan."
+msgstr "Esta es una configuración multisitio con subdominios, que requiere un certificado comodín (wildcard). Los certificados comodín forman parte del plan %spremium%s."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1270
+#: lets-encrypt/class-letsencrypt-handler.php:1568
+#: lets-encrypt/class-letsencrypt-handler.php:1619
+msgid "Successfully verified alias domain."
+msgstr "Se ha verificado con éxito el dominio del alias."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1259
+#: lets-encrypt/class-letsencrypt-handler.php:1263
+msgid "Error code %s."
+msgstr "Código de error %s."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1245
+msgid "Challenge directory not writable."
+msgstr "El directorio challenge (de verificaciones) no es escribible."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1239
+msgid "Could not reach challenge directory over %s."
+msgstr "No se pudo acceder al directorio challenge (de verificaciones) en %s. "
+
+#: lets-encrypt/class-letsencrypt-handler.php:1235
+#: lets-encrypt/class-letsencrypt-handler.php:1545
+msgid "no response"
+msgstr "no hay respuesta"
+
+#: lets-encrypt/class-letsencrypt-handler.php:1176
+msgid "The certs directory was successfully created."
+msgstr "El directorio de certificados se ha creado con éxito."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1172
+msgid "The certs directory is not created yet."
+msgstr "El directorio de certificados no se ha creado todavía."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1157
+msgid "The key directory was successfully created."
+msgstr "El directorio de claves se ha creado con éxito."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1149
+msgid "Trying to create directory in root of website."
+msgstr "Intentando crear un directorio en la raíz del sitio web."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1145
+msgid "The key directory is not created yet."
+msgstr "El directorio de claves aún no se ha creado."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1132
+msgid "The challenge directory was successfully created."
+msgstr "El directorio challenge (de verificaciones) se ha creado con éxito."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1128
+msgid "The challenge directory is not created yet."
+msgstr "El directorio challenge (de verificaciones) aún no está creado."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1085
+msgid "The required directories have the necessary writing permissions."
+msgstr "Los directorios requeridos tienen los permisos de escritura necesarios."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1078
+msgid "Set permissions to 644 to enable SSL generation."
+msgstr "Establezca los permisos a 644 para permitir la generación de SSL."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1078
+msgid "The following directories do not have the necessary writing permissions."
+msgstr "Los siguientes directorios no tienen los permisos de escritura necesarios."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1062
+msgid "Please complete the following step(s) first: %s"
+msgstr "Por favor, complete primero los siguientes pasos: %s"
+
+#: lets-encrypt/class-letsencrypt-handler.php:797
+msgid "Order successfully retrieved."
+msgstr "Pedido recuperado con éxito."
+
+#: lets-encrypt/class-letsencrypt-handler.php:781
+msgid "Order successfully created."
+msgstr "Pedido creado con éxito."
+
+#: lets-encrypt/class-letsencrypt-handler.php:738
+msgid "Bundle not available yet..."
+msgstr "El paquete no está disponible todavía..."
+
+#: lets-encrypt/class-letsencrypt-handler.php:730
+msgid "Files not created yet..."
+msgstr "Archivos no creados aún..."
+
+#: lets-encrypt/class-letsencrypt-handler.php:724
+msgid "Successfully generated certificate."
+msgstr "Certificado generado con éxito."
+
+#: lets-encrypt/class-letsencrypt-handler.php:687
+msgid "OCSP not supported, the certificate will be generated without OCSP."
+msgstr "OCSP no soportado, el certificado se generará sin OCSP."
+
+#: lets-encrypt/class-letsencrypt-handler.php:679
+msgid "As your order will be regenerated, you'll need to update your DNS text records."
+msgstr "Como su pedido será regenerado, tendrá que actualizar sus registros de texto DNS."
+
+#: lets-encrypt/class-letsencrypt-handler.php:447
+#: lets-encrypt/class-letsencrypt-handler.php:676
+msgid "The order is invalid, possibly due to too many failed authorization attempts. Please start at the previous step."
+msgstr "El pedido no es válido, posiblemente debido a demasiados intentos de autorización fallidos. Por favor, comience en el paso anterior."
+
+#: lets-encrypt/class-letsencrypt-handler.php:660
+msgid "Authorization not completed yet."
+msgstr "La autorización no se ha completado todavía."
+
+#: lets-encrypt/class-letsencrypt-handler.php:636
+msgid "Certificate already generated. It was renewed if required."
+msgstr "Certificado ya generado. Se renovó si fué necesario."
+
+#: lets-encrypt/class-letsencrypt-handler.php:605
+msgid "DNS records were not verified yet. Please complete the previous step."
+msgstr "Los registros DNS aún no se han verificado. Complete el paso anterior. "
+
+#: lets-encrypt/class-letsencrypt-handler.php:591
+msgid "Please double check your DNS txt record."
+msgstr "Por favor, compruebe su registro txt de DNS."
+
+#: lets-encrypt/class-letsencrypt-handler.php:589
+msgid "The certificate generation was rate limited for 10 minutes because the authorization failed."
+msgstr "La generación del certificado se limitó a 10 minutos porque la autorización falló."
+
+#: lets-encrypt/class-letsencrypt-handler.php:548
+msgid "Could not verify TXT record for domain %s"
+msgstr "No se pudo verificar el registro TXT para el dominio %s "
+
+#: lets-encrypt/class-letsencrypt-handler.php:539
+msgid "The DNS response for %s was %s, while it should be %s."
+msgstr "La respuesta DNS para %s fue %s, mientras que debería ser %s."
+
+#: lets-encrypt/class-letsencrypt-handler.php:532
+msgid "Successfully verified DNS records"
+msgstr "Registros DNS verificados con éxito"
+
+#: lets-encrypt/class-letsencrypt-handler.php:518
+#: lets-encrypt/integrations/cpanel/functions.php:45
+msgid "Token not generated. Please complete the previous step."
+msgstr "No se ha generado el token. Por favor, complete el paso anterior."
+
+#: lets-encrypt/class-letsencrypt-handler.php:476
+msgid "Configured for HTTP challenge"
+msgstr "Configurado para el challenge HTTP (verificaciones)"
+
+#: lets-encrypt/class-letsencrypt-handler.php:435
+msgid "Token not received yet."
+msgstr "El token no se ha recibido todavía."
+
+#: lets-encrypt/class-letsencrypt-handler.php:420
+#: lets-encrypt/class-letsencrypt-handler.php:428
+msgid "Token successfully retrieved."
+msgstr "Token recuperado con éxito."
+
+#: lets-encrypt/class-letsencrypt-handler.php:383
+msgid "The email address was not set. Please set the email address"
+msgstr "La dirección de correo electrónico no se ha especificado. Por favor, establezca la dirección de correo electrónico"
+
+#: lets-encrypt/class-letsencrypt-handler.php:375
+msgid "Please change your email address %shere%s and try again."
+msgstr "Por favor, cambie su dirección de correo electrónico %saquí%s y vuelva a intentarlo."
+
+#: lets-encrypt/class-letsencrypt-handler.php:374
+msgid "The used domain for your email address is not allowed."
+msgstr "El dominio utilizado para su dirección de correo electrónico no está permitido."
+
+#: lets-encrypt/class-letsencrypt-handler.php:367
+msgid "Successfully retrieved account"
+msgstr "Cuenta recuperada con éxito"
+
+#: lets-encrypt/class-letsencrypt-handler.php:347
+msgid "The PHP function CURL has successfully been detected."
+msgstr "La función PHP CURL ha sido detectada con éxito."
+
+#: lets-encrypt/class-letsencrypt-handler.php:343
+msgid "The PHP function CURL is not available on your server, which is required. Please contact your hosting provider."
+msgstr "La función PHP CURL no está disponible en su servidor, lo cual es necesario. Por favor, póngase en contacto con su empresa de alojamiento."
+
+#: lets-encrypt/class-letsencrypt-handler.php:327
+msgid "DirectAdmin recognized. Possibly the certificate can be installed automatically."
+msgstr "DirectAdmin reconocido. Posiblemente el certificado se pueda instalar automáticamente. "
+
+#: lets-encrypt/class-letsencrypt-handler.php:324
+msgid "Plesk recognized. Possibly the certificate can be installed automatically."
+msgstr "Plesk reconocido. Posiblemente el certificado se puede instalar automáticamente."
+
+#: lets-encrypt/class-letsencrypt-handler.php:321
+msgid "CPanel recognized. Possibly the certificate can be installed automatically."
+msgstr "CPanel reconocido. Posiblemente el certificado puede ser instalado automáticamente."
+
+#: lets-encrypt/class-letsencrypt-handler.php:317
+msgid "The Hosting Panel software was not recognized. Depending on your hosting provider, the generated certificate may need to be installed manually."
+msgstr "El software de Webhosting Dashboard no fue reconocido. Dependiendo de su empresa de alojamiento, puede ser necesario instalar manualmente el certificado generado."
+
+#: lets-encrypt/class-letsencrypt-handler.php:1561
+msgid "If this is not the case, don't add this alias to your certificate."
+msgstr "Si no es así, no añadas este alias a tu certificado."
+
+#: lets-encrypt/class-letsencrypt-handler.php:286
+msgid "SSL certificate should be generated and installed."
+msgstr "El certificado SSL debe ser generado e instalado."
+
+#: lets-encrypt/class-letsencrypt-handler.php:280
+msgid "You already have a valid SSL certificate."
+msgstr "Ya tiene un certificado SSL válido."
+
+#: lets-encrypt/class-letsencrypt-handler.php:276
+msgid "Continue to renew."
+msgstr "Continuar para renovar"
+
+#: lets-encrypt/class-letsencrypt-handler.php:276
+msgid "Your certificate will expire on %s."
+msgstr "Su certificado expirará el %s."
+
+#: lets-encrypt/class-letsencrypt-handler.php:270
+msgid "(unknown)"
+msgstr "(desconocido)"
+
+#: lets-encrypt/class-letsencrypt-handler.php:206
+msgid "Your domain meets the requirements for Let's Encrypt."
+msgstr "Su dominio cumple los requisitos de Let's Encrypt."
+
+#: lets-encrypt/class-letsencrypt-handler.php:192
+msgid "It is not possible to install Let's Encrypt on a localhost environment."
+msgstr "No es posible instalar Let's Encrypt en un entorno localhost."
+
+#: lets-encrypt/class-letsencrypt-handler.php:202
+msgid "It is not possible to install Let's Encrypt on a subfolder configuration."
+msgstr "No es posible instalar Let's Encrypt en una configuración de subcarpetas."
+
+#: lets-encrypt/class-letsencrypt-handler.php:197
+msgid "It is not possible to install Let's Encrypt on a subsite. Please go to the main site of your website."
+msgstr "No es posible instalar Let's Encrypt en un subsitio. Por favor, vaya al sitio principal de su sitio web."
+
+#: class-admin.php:2199
+msgid "You have the Really Simple SSL Let's Encrypt beta add-on activated. This functionality has now been integrated in core, so you can deactivate the add-on."
+msgstr "Tiene activado el add-on beta de Let's Encrypt para Really Simple SSL . Esta funcionalidad se ha integrado en el núcleo, por lo que puede desactivar el add-on."
+
+#: class-admin.php:1984
+msgid "Re-check"
+msgstr "Vuelva a revisar"
+
+#: class-admin.php:1982
+msgid "Depending on your hosting provider, %smanual installation%s may be required."
+msgstr "Dependiendo de su empresa de alojamiento, es posible que se requiera la %sinstalación manual%s. "
+
+#: class-admin.php:1981
+msgid "If your hosting provider auto-renews your certificate, no action is required. Alternatively, you have the option to generate an SSL certificate with Really Simple SSL."
+msgstr "Si su proveedor de alojamiento renueva automáticamente su certificado, no es necesario hacer nada. Como alternativa, tiene la opción de generar un certificado SSL con Really Simple SSL."
+
+#: class-admin.php:1981
+msgid "SSL certificate will expire on %s."
+msgstr "El certificado SSL expirará en %s."
+
+#: class-admin.php:1980
+msgid "Your SSL certificate will expire soon."
+msgstr "Su certificado SSL expirará pronto."
+
+#: class-admin.php:1960
+msgid "No SSL detected. Use the retry button to check again."
+msgstr "No se ha detectado SSL. Utilice el botón de reintento para volver a comprobarlo."
+
+#: class-admin.php:1814
+msgid "(Unknown)"
+msgstr "(Desconocido)"
+
+#: class-admin.php:1961 class-admin.php:1969 class-admin.php:1983
+msgid "Install SSL certificate"
+msgstr "Instalar el certificado SSL"
+
+#: class-admin.php:1962
+msgid "Retry"
+msgstr "Reintentar"
+
+#: onboarding/config.php:170
+msgid "An SSL certificate has been detected"
+msgstr "Se ha detectado un certificado SSL"
+
+#: class-admin.php:2133
+msgid "Add the following lines of code to your wp-config.php."
+msgstr "Añade las siguientes líneas de código a tu wp-config.php."
+
+#: class-admin.php:2126
+msgid "HttpOnly Secure cookies not set."
+msgstr "Cookies seguras  HttpOnly no configuradas."
+
+#: class-admin.php:2141
+msgid "Or set your wp-config.php to writable and reload this page."
+msgstr "O configura tu wp-config.php para que tenga permisos de escritura y recarga esta página."
+
+#: class-admin.php:2133
+msgid "To set the httponly secure cookie settings, your wp-config.php has to be edited, but the file is not writable."
+msgstr "Para configurar los ajustes de cookie segura httponly tu archivo wp-config.php debe tener permisos de escritura, pero el archivo no los tiene."
+
+#: class-admin.php:2186
+msgid "Due to a recent update by WP Engine, we have changed your settings automatically to adapt."
+msgstr "Debido a una actualización reciente de WP Engine, hemos cambiado automáticamente tus ajustes para adaptarlo."
+
+#: class-admin.php:1875
+msgid "The Really Simple SSL plugin folder in the /wp-content/plugins/ directory has been renamed to %s. This might cause issues when deactivating, or with premium add-ons. To fix this you can rename the Really Simple SSL folder back to the default %s."
+msgstr "La carpeta del plugin Really Simple SSL en el directorio \"/wp-content/plugins/\" ha sido renombrada a \"%s\". Esto puede causar problemas al desactivarlo o con las extensiones premium. Para corregirlo, puedes volver a renombrar la carpeta de Really Simple SSL al nombre por defecto \"%s\"."
+
+#: class-site-health.php:155
+msgid "Not all recommended security headers are installed"
+msgstr "No están instaladas todas las cabeceras de seguridad recomendadas"
+
+#: class-site-health.php:143
+msgid "The recommended security headers are detected on your site."
+msgstr "Las cabeceras de seguridad recomendadas se han detectado en tu sitio."
+
+#: class-site-health.php:135
+msgid "Recommended security headers installed"
+msgstr "Cabeceras de seguridad recomendadas instaladas"
+
+#: class-site-health.php:36
+msgid "Security Headers Test"
+msgstr "Prueba de cabeceras de seguridad"
+
+#: class-site-health.php:31
+msgid "SSL Status Test"
+msgstr "Prueba del estado de SSL"
+
+#: class-admin.php:1959
+msgid "No SSL detected"
+msgstr "No se ha detectado SSL"
+
+#: class-site-health.php:222
+msgid "Enable 301 redirect"
+msgstr "Activar la redirección 301"
+
+#: class-site-health.php:214
+msgid "No 301 redirect to SSL enabled."
+msgstr "No se ha activado ninguna redirección 301 a SSL."
+
+#: class-site-health.php:208
+msgid "Really Simple SSL is installed, but no valid SSL certificate is detected."
+msgstr "Really Simple SSL está instalado, pero no se ha detectado ningún certificado SSL válido."
+
+#: class-site-health.php:192
+msgid "SSL is not enabled."
+msgstr "SSL no está activado."
+
+#: class-admin.php:2620
+msgid "Deactivate, revert to http"
+msgstr "Desactivar, volver a http"
+
+#: class-admin.php:2619
+msgid "Deactivate, keep https"
+msgstr "Desactivar, mantener https"
+
+#: class-admin.php:2607
+msgid "The WordPress 301 redirect will stop working"
+msgstr "La redirección 301 de WordPress dejará de funcionar"
+
+#: class-admin.php:2602
+msgid "Deactivate, and revert to http. This will remove all changes by the plugin."
+msgstr "Desactivar y volver a http. Esto eliminará todos los cambios hechos por el plugin."
+
+#: class-admin.php:2599
+msgid "To deactivate the plugin correctly, please select if you want to:"
+msgstr "Para desactivar el plugin correctamente, por favor, selecciona si quieres:"
+
+#: class-site-health.php:160
+msgid "Learn more about security headers"
+msgstr "Aprende más sobre las cabeceras de seguridad"
+
+#: class-site-health.php:217
+msgid "To ensure all traffic passes through SSL, please enable a 301 redirect."
+msgstr "Para asegurar que todo el tráfico pasa a través de SSL, por favor, activa una redirección 301."
+
+#: class-site-health.php:195
+msgid "Really Simple SSL detected an SSL certificate, but has not been configured to enforce SSL."
+msgstr "Really Simple SSL ha detectado un certificado SSL, pero no se ha configurado para forzar SSL."
+
+#: class-admin.php:2601
+msgid "Deactivate, but stay on SSL."
+msgstr "Desactivar, pero permanecer en SSL."
+
+#: settings/config/config.php:299
+msgid "Redirects all requests over HTTP to HTTPS using a PHP 301 redirect. Enable if the .htaccess redirect cannot be used, for example on NGINX servers."
+msgstr "Redirige todas las peticiones sobre HTTP a HTTPS mediante una redirección 301 de PHP. Activa esto si la redirección .htaccess no se puede usar, por ejemplo, en servidores NGINX."
+
+#: class-admin.php:1760 settings/build/index.js:382
+#: settings/src/Settings/MixedContentScan.js:198 settings/build/index.js:6521
+msgid "Warning"
+msgstr "Advertencia"
+
+#: class-admin.php:1759
+msgid "Completed"
+msgstr "Completado"
+
+#: upgrade/upgrade-to-pro.php:181 settings/build/index.js:382
+#: settings/src/Dashboard/OtherPlugins.js:88 settings/build/index.js:2729
+msgid "Installed"
+msgstr "Instalado"
+
+#: onboarding/config.php:128 upgrade/upgrade-to-pro.php:138
+#: upgrade/upgrade-to-pro.php:151 upgrade/upgrade-to-pro.php:168
+#: settings/build/index.js:382 settings/src/Dashboard/OtherPlugins.js:67
+#: settings/build/index.js:2708
+msgid "Install"
+msgstr "Instalar"
+
+#: class-admin.php:2062
+msgid "WordPress 301 redirect enabled. We recommend to enable a 301 .htaccess redirect."
+msgstr "Redirección 301 de WordPress activada. Recomendamos activar la redirección 301 por .htaccess."
+
+#: class-admin.php:1761
+msgid "Open"
+msgstr "Gratuito"
+
+#: settings/config/config.php:1141
+msgid "Tips & Tricks"
+msgstr "Consejos y trucos"
+
+#: class-admin.php:2105
+msgid "Your site uses Divi. This can require some additional steps before getting the secure lock."
+msgstr "Tu sitio usa Divi. Esto puede requerir algunos pasos adicionales antes de conseguir el candado de seguridad."
+
+#: class-admin.php:2091
+msgid "Your site uses Elementor. This can require some additional steps before getting the secure lock."
+msgstr "Tu sitio usa Elementor. Esto puede requerir algunos pasos adicionales antes de conseguir el candado de seguridad."
+
+#: class-multisite.php:114
+msgid "SSL is enabled networkwide."
+msgstr "SSL está activado en toda la red."
+
+#: progress/class-progress.php:83
+msgid "SSL configuration finished!"
+msgstr "¡Configuración de SSL finalizada!"
+
+#: class-site-health.php:201 settings/build/index.js:382
+#: settings/src/Dashboard/ProgressFooter.js:42
+#: settings/src/Onboarding/Onboarding.js:242 settings/build/index.js:2997
+#: settings/build/index.js:4857
+msgid "Activate SSL"
+msgstr "Activar SSL"
+
+#: progress/class-progress.php:94
+msgid "SSL is not yet enabled on this site."
+msgstr "SSL aún no está activado en este sitio."
+
+#: progress/class-progress.php:81
+msgid "SSL is activated on your site."
+msgstr "SSL está activado en tu sitio."
+
+#: class-admin.php:2008
+msgid "The mixed content fixer is active, but was not detected on the frontpage."
+msgstr "El corrector de contenido mixto está activo, pero no se ha detectado en la portada."
+
+#: class-admin.php:2001
+msgid "Really Simple SSL has received no response from the webpage."
+msgstr "Really Simple SSL no ha recibido ninguna respuesta de la web."
+
+#: class-admin.php:1938
+msgid "SSL is not enabled yet."
+msgstr "SSL aún no está activado."
+
+#: class-admin.php:1890
+msgid "SSL is now activated. Check if your website is secure by following this article."
+msgstr "SSL ya está activado. Comprueba si tu web es segura consultando este artículo."
+
+#: class-admin.php:1799
+msgid "No recommended redirect rules detected."
+msgstr "No se ha detectado ninguna regla de redirección recomendada."
+
+#: class-admin.php:2654 class-multisite.php:219 settings/build/index.js:382
+#: settings/src/Header.js:43 settings/build/index.js:3658
+msgid "Support"
+msgstr "Soporte"
+
+#: settings/config/config.php:23 settings/config/config.php:28
+msgid "General"
+msgstr "General"
+
+#: progress/class-progress.php:81
+msgid "You still have %s task open."
+msgid_plural "You still have %s tasks open."
+msgstr[0] "Todavía tienes %s tarea abierta."
+msgstr[1] "Todavía tienes %s tareas abiertas."
+
+#: progress/class-progress.php:88
+msgid "Basic SSL configuration finished! Improve your score with %sReally Simple SSL Pro%s."
+msgstr "¡Configuración SSL básica finalizada! Mejora tu puntuación con %sReally Simple SSL Pro%s."
+
+#: class-admin.php:2019
+msgid "Mixed content fixer not enabled. Enable the option to fix mixed content on your site."
+msgstr "El corrector de contenido mixto no está activado. Activa la opción para corregir el contenido mixto en tu sitio."
+
+#. Author of the plugin
+msgid "Really Simple Plugins"
+msgstr "Really Simple Plugins"
+
+#: class-admin.php:1594
+msgid "Hi, Really Simple SSL has kept your site secure for some time now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Hola, Really Simple SSL ha mantenido tu sitio seguro desde hace un tiempo, ¡fantástico! Si tienes un momento, por favor, considera dejar una reseña en WordPress.org para hacer correr la voz. ¡Te lo agradecemos mucho! Si tienes alguna pregunta o comentario, déjanos un %smensaje%s."
+
+#: onboarding/config.php:23
+msgid "Check out Really Simple SSL Pro"
+msgstr "Echa un vistazo a Really Simple SSL Pro"
+
+#: class-admin.php:1604
+msgid "Don't show again"
+msgstr "No volver a mostrar"
+
+#: class-admin.php:2025
+msgid "The mixed content fixer could not be detected due to a cURL error: %s. cURL errors are often caused by an outdated version of PHP or cURL and don't affect the front-end of your site. Contact your hosting provider for a fix."
+msgstr "El corrector de contenido mixto no ha podido ser detectado debido a un error de cURL: %s. Los errores de cURL a menudo son causados por una versión obsoleta de PHP o de cURL y no afectan a la portada de tu sitio. Contacta con tu proveedor de alojamiento para corregirlo."
+
+#: class-admin.php:2013
+msgid "Error occurred when retrieving the webpage."
+msgstr "Ha ocurrido un error al recuperar la web."
+
+#: class-site-health.php:226
+msgid "301 .htaccess redirect is not enabled."
+msgstr "La redirección 301 en .htaccess no está activada."
+
+#: onboarding/config.php:97
+msgid "Enable"
+msgstr "Habilitar"
+
+#: class-site-health.php:183
+msgid "You have set a 301 redirect to SSL. This is important for SEO purposes"
+msgstr "Has configurado una redirección 301 a SSL. Esto es importante para el SEO"
+
+#: class-site-health.php:229
+msgid "The 301 .htaccess redirect is the fastest and most reliable redirect option."
+msgstr "La redirección 301 en el archivo «.htaccess» es la opción de redirección más rápida y fiable."
+
+#: class-site-health.php:175
+msgid "301 SSL redirect enabled"
+msgstr "Redirección SSL 301 activada"
+
+#: class-admin.php:2057
+msgid "301 redirect to https set: .htaccess redirect."
+msgstr "Redirección 301 a https configurada: Redirección .htaccess."
+
+#: class-admin.php:1860
+msgid "The 'force-deactivate.php' file has to be renamed to .txt. Otherwise your ssl can be deactivated by anyone on the internet."
+msgstr "El archivo «force-deactivate.php» tiene que ser renombrado a .txt. En caso contrario, tu SSL lo puede desactivar cualquiera en internet."
+
+#: class-admin.php:1596
+msgid "Hi, Really Simple SSL has kept your site secure for a month now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Hola, Really Simple SSL ha mantenido tu sitio seguro durante un mes, ¡fantástico! Si tienes un momento, por favor, plantéate dejar una reseña en WordPress.org para hacer correr la voz. ¡Lo agradecemos mucho! Si tienes alguna pregunta o comentario, déjanos un %smensaje%s."
+
+#: security/cron.php:36
+msgid "Once every minute"
+msgstr "Una vez cada minuto"
+
+#: class-admin.php:1603
+msgid "Maybe later"
+msgstr "Quizá más tarde"
+
+#: class-admin.php:1602
+msgid "Leave a review"
+msgstr "Dejar una valoración"
+
+#: class-multisite.php:161
+msgid "You run a Multisite installation with subdomains, but your site doesn't have a wildcard certificate."
+msgstr "Estás ejecutando una instalación multisitio con subdominios, pero tu sitio no tiene un certificado wildcard."
+
+#: class-multisite.php:163
+msgid "Activate SSL per site or install a wildcard certificate to fix this."
+msgstr "Activa SSL por sitio o instala un certificado wildcard para corregirlo."
+
+#: class-multisite.php:162
+msgid "This leads to issues when activating SSL networkwide since subdomains will be forced over SSL as well while they don't have a valid certificate."
+msgstr "Esto provoca problemas al activar SSL en toda la red, ya que los subdominios también serán forzados en SSL aunque no tengan un certificado válido."
+
+#: class-admin.php:2618 upgrade/upgrade-to-pro.php:361
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: class-admin.php:467 settings/build/index.js:382
+#: settings/src/Dashboard/TaskElement.js:29 settings/src/Settings/Help.js:26
+#: settings/build/index.js:3599 settings/build/index.js:5797
+msgid "More info"
+msgstr "Más información"
+
+#: class-admin.php:104
+msgid "Really Simple SSL and Really Simple SSL add-ons do not process any personal identifiable information, so the GDPR does not apply to these plugins or usage of these plugins on your website. You can find our privacy policy <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Really Simple SSL y las extensiones para Really Simple SSL no procesan información personal identificable, así que el RGPD no se aplica a estos plugins o al uso de estos plugins en tu web. Puedes encontrar nuestra política de privacidad <a href=\"%s\" target=\"_blank\">aquí</a>."
+
+#: class-admin.php:2604
+msgid "Deactivating the plugin while keeping SSL will do the following:"
+msgstr "Desactivar el plugin manteniendo el SSL hará lo siguiente:"
+
+#: class-admin.php:2609
+msgid "The .htaccess redirect will remain active"
+msgstr "La redirección del archivo \".htaccess\" seguirá activa"
+
+#: class-admin.php:2608
+msgid "Your site address will remain https://"
+msgstr "La dirección de tu sitio seguirá siendo https://"
+
+#: class-admin.php:2606
+msgid "The mixed content fixer will stop working"
+msgstr "El corrector de contenido mixto dejará de funcionar"
+
+#: class-admin.php:2588
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#. Author URI of the plugin
+msgid "https://really-simple-plugins.com"
+msgstr "https://really-simple-plugins.com"
+
+#: onboarding/config.php:23
+msgid "You can also let the automatic scan of the pro version handle this for you, and get premium support, increased security with HSTS and more!"
+msgstr "También puedes dejar que la exploración automática de la versión pro lo gestione por ti y conseguir soporte premium, seguridad mejorada con HSTS ¡y más!"
+
+#: onboarding/config.php:163
+msgid "You may need to login in again."
+msgstr "Puede que tengas que acceder de nuevo."
+
+#: class-admin.php:2042
+msgid "No 301 redirect is set. Enable the WordPress 301 redirect in the settings to get a 301 permanent redirect."
+msgstr "No se ha configurado ninguna redirección 301. Activa la redirección 301 de WordPress en los ajustes para conseguir una redirección 301 permanente."
+
+#: class-site-health.php:234
+msgid "Enable 301 .htaccess redirect"
+msgstr "Activar la redirección 301 de .htaccess"
+
+#: class-admin.php:2038
+msgid "301 redirect to https set."
+msgstr "Redirección 301 a https establecido."
+
+#: class-multisite.php:147
+msgid "View settings page"
+msgstr "Ver página de configuración"
+
+#: settings/config/config.php:33
+msgid "Premium Support"
+msgstr "Soporte premium"
+
+#: lets-encrypt/functions.php:330 lets-encrypt/functions.php:331
+#: settings/build/index.js:382 settings/src/Dashboard/GridBlock.js:93
+#: settings/src/Settings/SettingsGroup.js:93 settings/build/index.js:2626
+#: settings/build/index.js:7158
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: class-admin.php:1934
+msgid "SSL is enabled on your site."
+msgstr "SSL está activo en tu sitio."
+
+#: class-admin.php:20 class-cache.php:10 class-certificate.php:10
+#: class-front-end.php:15 class-site-health.php:8
+#: lets-encrypt/class-letsencrypt-handler.php:30
+#: onboarding/class-onboarding.php:18 security/firewall-manager.php:8
+msgid "%s is a singleton class and you cannot create a second instance."
+msgstr "%s es una clase singleton y no puedes crear una segunda instancia."
+
+#: onboarding/config.php:155
+msgid "Http references in your .css and .js files: change any http:// into https://"
+msgstr "Referencias http en tus archivos \".css\" y \".js\": cambia cualquier http:// a https://"
+
+#: class-admin.php:1823
+msgid "Your wp-config.php has to be edited, but is not writable."
+msgstr "Hay que modificar tu wp-config.php pero no tiene permisos de escritura."
+
+#: onboarding/config.php:159
+msgid "Images, stylesheets or scripts from a domain without an SSL certificate: remove them or move to your own server."
+msgstr "Imágenes, hojas de estilo o scripts de un dominio sin un certificado SSL: elimínalos o muévelos a tu propio servidor."
+
+#: onboarding/config.php:29
+msgid "Almost ready to migrate to SSL!"
+msgstr "¡Casi listo para migrar a SSL!"
+
+#: class-admin.php:1996
+msgid "Mixed content fixer was successfully detected on the front-end."
+msgstr "El corrector de contenido mixto se ha detectado correctamente en la portada."
+
+#: settings/templates/tips-tricks-footer.php:3 settings/build/index.js:382
+#: settings/src/Header.js:39 settings/build/index.js:3654
+msgid "Documentation"
+msgstr "Documentación"
+
+#. Plugin Name of the plugin
+msgid "Really Simple SSL"
+msgstr "Really Simple SSL"
+
+#. Plugin URI of the plugin
+msgid "https://really-simple-ssl.com"
+msgstr "https://really-simple-ssl.com"
+
+#: settings/config/config.php:388
+msgid "Stop editing the .htaccess file"
+msgstr "Dejar de modificar el archivo .htaccess"
+
+#: class-admin.php:1975
+msgid "An SSL certificate was detected on your site."
+msgstr "Se ha detectado un certificado SSL en tu sitio."
+
+#: class-site-health.php:205
+msgid "No SSL detected."
+msgstr "No se ha detectado SSL."
+
+#: class-admin.php:1707 class-admin.php:2646 class-admin.php:2649
+#: class-multisite.php:87 class-multisite.php:216 settings/config/config.php:17
+#: settings/build/index.js:382
+#: settings/src/Dashboard/SecurityFeaturesBlock/SecurityFeaturesFooter.js:14
+#: settings/build/index.js:3112
+msgid "Settings"
+msgstr "Ajustes"
+
+#: settings/config/config.php:315
+msgid "Mixed content fixer"
+msgstr "Corrector de contenido mixto"
+
+#: settings/settings.php:86
+msgid "SSL"
+msgstr "SSL"
+
+#: settings/settings.php:85
+msgid "SSL settings"
+msgstr "Ajustes SSL"
+
+#: class-multisite.php:131
+msgid "You run a Multisite installation with subfolders, which prevents this plugin from fixing your missing server variable in the wp-config.php."
+msgstr "Estás ejecutando una instalación multisitio en subcarpetas, lo que impide que este plugin solucione variables del servidor en el archivo wp-config.php."
+
+#: class-admin.php:1861
+msgid "Check again"
+msgstr "Comprobar de nuevo"
+
+#: class-multisite.php:133
+msgid "Activate networkwide to fix this."
+msgstr "Actívalo en toda la red para corregirlo."
+
+#: class-multisite.php:132
+msgid "Because the $_SERVER[\"HTTPS\"] variable is not set, your website may experience redirect loops."
+msgstr "Al no estar configurada la variable `$_SERVER[\"HTTPS\"]`, tu web puede experimentar bucles de redirección."
